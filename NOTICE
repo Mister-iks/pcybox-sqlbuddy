@@ -1,0 +1,19 @@
+SQL Buddy
+Copyright 2025 Ibrahima Khalilou Lahi SAMB (Mister_iks)
+
+This product includes software developed by pcybox
+(https://github.com/Mister-iks/pcybox-sqlbuddy).
+
+This software is provided under the Apache License, Version 2.0.
+See the LICENSE file for the full license text.
+
+For commercial support, custom development, or consulting services,
+please contact: shadow@pcybox.com
+
+Third-party dependencies:
+- pymysql: MIT License
+- psycopg2: LGPL License
+- openai: Apache 2.0 License
+- anthropic: MIT License
+- python-dotenv: BSD License
+- rich: MIT License

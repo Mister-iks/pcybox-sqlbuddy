@@ -4,6 +4,7 @@
 [![Python Support](https://img.shields.io/pypi/pyversions/sqlbuddy.svg)](https://test.pypi.org/project/pcybox-sqlbuddy/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
 **AI-powered SQL query generator by [Mister_iks](https://github.com/Mister-iks)**
 
 Generate accurate SQL queries from natural language using OpenAI or Claude. Supports MySQL & PostgreSQL with automatic schema analysis, query validation, and optimization.
